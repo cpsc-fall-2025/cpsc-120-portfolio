@@ -48,18 +48,18 @@ for i in `./bin/asgts.py -c $COURSEID ls | egrep "^[0-9]{8} \"Lab [0-9][0-9]?\".
 done
 ` -->
 
-* [Lab 1](https://csufullerton.instructure.com/courses/3453286/assignments/37261539)
-* [Lab 2](https://csufullerton.instructure.com/courses/3453286/assignments/37261543)
-* [Lab 3](https://csufullerton.instructure.com/courses/3453286/assignments/37261545)
-* [Lab 4](https://csufullerton.instructure.com/courses/3453286/assignments/37261546)
-* [Lab 5](https://csufullerton.instructure.com/courses/3453286/assignments/37261547)
-* [Lab 6](https://csufullerton.instructure.com/courses/3453286/assignments/37261548)
-* [Lab 7](https://csufullerton.instructure.com/courses/3453286/assignments/37261549)
-* [Lab 8](https://csufullerton.instructure.com/courses/3453286/assignments/37261550)
-* [Lab 9](https://csufullerton.instructure.com/courses/3453286/assignments/37261551)
-* [Lab 10](https://csufullerton.instructure.com/courses/3453286/assignments/37261540)
-* [Lab 11](https://csufullerton.instructure.com/courses/3453286/assignments/37261541)
-* [Lab 12](https://csufullerton.instructure.com/courses/3453286/assignments/37261542)
+* [Lab 1](https://csufullerton.instructure.com/courses/3488853/assignments/37852147)
+* [Lab 2](https://csufullerton.instructure.com/courses/3488853/assignments/37852151)
+* [Lab 3](https://csufullerton.instructure.com/courses/3488853/assignments/37852153)
+* [Lab 4](https://csufullerton.instructure.com/courses/3488853/assignments/37852154)
+* [Lab 5](https://csufullerton.instructure.com/courses/3488853/assignments/37852155)
+* [Lab 6](https://csufullerton.instructure.com/courses/3488853/assignments/37852156)
+* [Lab 7](https://csufullerton.instructure.com/courses/3488853/assignments/37852157)
+* [Lab 8](https://csufullerton.instructure.com/courses/3488853/assignments/37852158)
+* [Lab 9](https://csufullerton.instructure.com/courses/3488853/assignments/37852159)
+* [Lab 10](https://csufullerton.instructure.com/courses/3488853/assignments/37852148)
+* [Lab 11](https://csufullerton.instructure.com/courses/3488853/assignments/37852149)
+* [Lab 12](https://csufullerton.instructure.com/courses/3488853/assignments/37852150)
 
 ## Step 2: Reflection
 
@@ -67,9 +67,9 @@ done
 
 For each of your favorite labs, write down in your notebook **at least 3 sentences** why that lab is your favorite and what you learned. Your narrative must be **no less than 30 words in length**. Be specific about why you like the lab and what you learned. **It is part of your grade for this assignment!**
 
-For example, in [Lab 07](https://csufullerton.instructure.com/courses/3411194/assignments/34637727) there were two parts. The first part was writing a program that calculates the number of days between two dates and the second part calculated the value of a Blackjack hand. One could write:
+For example, in [Lab 06](https://csufullerton.instructure.com/courses/3488853/assignments/37852156) there were two parts. The first part was writing a program that calculates the number of days between two dates and the second part calculated the value of a Blackjack hand. One could write:
 
-> Lab 7, part 2 was a favorite because I was always curious about how the game Blackjack works. I was able to write functions for the first time that calculate the correct value of a Blackjack hand no matter how many Aces were dealt.
+> Lab 6, part 2 was a favorite because I was always curious about how the game Blackjack works. I was able to write functions for the first time that calculate the correct value of a Blackjack hand no matter how many Aces were dealt.
 
 Carefully and considerately write your reflection about your three favorite labs. Your spelling and grammar matter. Remember that each narrative reflection must be **at least 3 sentences** long. Your reflection must clearly express why that lab/part is your favorite and what you learned. Your narrative reflection must be **no less than 30 words in length**. Be specific about why you like the lab/part and what you learned.
 
@@ -106,9 +106,9 @@ Start by adding the following into `index.md` and replace **your_username** with
 
     ### CPSC 120
 
-    * Lab 7
+    * Lab 6
 
-        Lab 7, part 2 was a favorite because I was always curious about how the
+        Lab 6, part 2 was a favorite because I was always curious about how the
         game Blackjack works. I was able to write functions for the first time
         that calculate the correct value of a Blackjack hand no matter how many
         Aces were dealt.
@@ -126,9 +126,9 @@ Start by adding the following into `index.md` and replace **your_username** with
 
     ### CPSC 120
 
-    * Lab 7
+    * Lab 6
 
-        Lab 7, part 2 was a favorite because I was always curious about how the
+        Lab 6, part 2 was a favorite because I was always curious about how the
         game Blackjack works. I was able to write functions for the first time
         that calculate the correct value of a Blackjack hand no matter how many
         Aces were dealt.
