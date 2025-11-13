@@ -223,7 +223,7 @@ If you continue to have problems, please ask your instructor for help.
 Extras are welcome and encouraged however they are not required. Your grade will not improve or suffer should you choose to or choose not to include any extras. Your grade shall be calculated using the rubric given at the end of this document.
 
 ## Images
-Use some images to show off who you are and what you have accomplished. For example, the images you created in Labs 10 and 12 are beautiful and you can embed them into your page very easily.
+Use some images to show off who you are and what you have accomplished. For example, the images you created in Lab 12 are beautiful and you can embed them into your page very easily.
 
 For example, let us image that you have an image named `gradient.png` and we want to place the image in this page.
 
@@ -241,7 +241,7 @@ For example, let us image that you have an image named `gradient.png` and we wan
     ```
 1. In the file `index.md`, using VS Code, add Markdown text to embed the image into your page. This will place the image in the file when you view it through your web browser.
     ```
-    ![The gradient image from Lab 10](images/gradient.png)
+    ![The gradient image from Lab 12](images/gradient.png)
     ```
 1. Save the changes you made to `index.md`, commit and push your changes.
     ```sh
